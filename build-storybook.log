@@ -1,0 +1,22 @@
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+  43.72 kB  build\static\js\main.747b01b0.js
+  1.77 kB   build\static\js\787.d1ea991d.chunk.js
+  541 B     build\static\css\main.073c9b0a.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  npm install -g serve
+  serve -s build
+
+Find out more about deployment here:
+
+  https://cra.link/deployment
+
