@@ -30,12 +30,12 @@ const NFTCard: React.FC<NFTCardProps> = ({
         <img
           className="nftCard__imageContainer__img"
           src={img}
-          alt="nft-card image"
+          alt="nft-card Ethereum"
         />
         <img
           className="nftCard__imageContainer__icon"
           src={iconView}
-          alt="nft-card icon"
+          alt="nft-card View"
         />
       </div>
       <Title text={name} />
